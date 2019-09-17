@@ -1,5 +1,7 @@
 # test
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/hjemmel/typescript-react-node.svg)](https://greenkeeper.io/)
+
 My cool TypeScript app
 
 ## Quick Start
