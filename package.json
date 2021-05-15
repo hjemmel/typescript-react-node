@@ -41,7 +41,7 @@
     "eslint-plugin-jest": "^22.16.0",
     "eslint-plugin-prettier": "^3.1.0",
     "mocha": "^6.2.0",
-    "pino-pretty": "^3.2.0",
+    "pino-pretty": "3.6.1",
     "prettier": "^1.18.2",
     "shelljs": "^0.8.3",
     "supertest": "^4.0.2",
